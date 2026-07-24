@@ -311,7 +311,7 @@ export default function Portfolio() {
             </h1>
             <p style={{ fontSize: "1.1rem", fontWeight: 600, color: "#94a3b8", marginBottom: "1rem" }}>Full-Stack Java & Python Developer · LMS & ERP Systems · React · REST APIs</p>
             <p style={{ fontSize: "0.95rem", color: "#64748b", maxWidth: 580, marginBottom: "2.5rem", lineHeight: 1.8 }}>
-              Passionate CSE student building production-grade LMS/ERP platforms, full-stack web tools, and Android apps. Strong foundation in backend architecture, scalable databases, and clean frontend experiences.
+              Building production-grade LMS/ERP platforms, full-stack web tools, and Android apps. Strong foundation in backend architecture, scalable databases, and clean frontend experiences.
             </p>
             <div style={{ display: "flex", gap: "1rem", flexWrap: "wrap", marginBottom: "3rem" }}>
               <button onClick={() => scrollTo("Projects")} style={{ background: "linear-gradient(135deg,#6366f1,#a855f7)", color: "white", border: "none", padding: "0.85rem 2rem", borderRadius: 12, fontWeight: 700, fontSize: "0.95rem", cursor: "pointer" }}>View Projects →</button>
