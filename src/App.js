@@ -491,7 +491,7 @@ export default function Portfolio() {
 
       <footer style={{ textAlign: "center", padding: "2.2rem 1rem", fontSize: "0.82rem", color: "#334155", borderTop: "1px solid #1e1e2e", position: "relative", zIndex: 1, fontFamily: "'JetBrains Mono',ui-monospace,monospace" }}>
         © {year} Siddharth Tiwari · All rights reserved · SDE @ AD
-        <div style={{ marginTop: 4, fontSize: "0.72rem" }}Designed & engineered by Siddharth Tiwari</div>
+        <div style={{ marginTop: 4, fontSize: "0.72rem" }}>Designed & engineered by Siddharth Tiwari</div>
       </footer>
     </div>
   );
