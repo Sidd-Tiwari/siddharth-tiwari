@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect} from "react";
 
 const NAV_LINKS = ["About", "Skills", "Experience", "Projects", "Timeline", "Contact"];
 
